@@ -30,6 +30,9 @@ function App() {
         <button  onClick={() => setBgColor("green")}
         className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
        style={{backgroundColor:"green"}}>Green</button>
+       <button  onClick={() => setBgColor("purple")}
+        className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
+       style={{backgroundColor:"purple"}}>purple</button>
         </div>
       </div>
     </div>
